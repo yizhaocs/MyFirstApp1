@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/yizhao/Desktop/MyFirstApp1/app/build/intermediates/pre-dexed/debug/classes-cc04c6a90cd15c669c77e71b2404991722728cd2.jar"
+        jar="/Users/yizhao/Desktop/MyFirstApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77"/>
+    <item
+        dex="/Users/yizhao/Desktop/MyFirstApp1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-c9330fb1f900fbf36d3ef13eaa7d4374ad79a71f.jar"
+        jar="/Users/yizhao/Documents/DevelopmentTools/Android_SDK/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+
+</pre-dex-items>
